@@ -45,3 +45,6 @@ En Power Query, localizar las siguientes consultas y actualizar:
 
 
 Este último archivo muy simple se utiliza para crear una tabla dimensional.
+
+Probar dashboard desde versión web: https://app.powerbi.com/links/kzQlJld2LN?ctid=87bccd0d-7b25-4e3d-89fb-c2ab93a68ec8&pbi_source=linkShare&bookmarkGuid=caedb029-3043-45e0-b3ce-814c24bc2574
+
