@@ -1,6 +1,6 @@
 # TFM – DASHBOARD INTERACTIVO PARA LA EVALUACIÓN Y MEJORA DE LA CALIDAD DEL SERVICIO EN CETURSA SIERRA NEVADA  
 
-**Autores:** 
+**Autores** 
 Alumno: Leandro Andrés Funes. 
 Tutores: María Visitación Hurtado y María Bermúdez Edo. 
 
@@ -42,5 +42,6 @@ En Power Query, localizar las siguientes consultas y actualizar:
 3. Consulta: **Categorías NPS**
 =G:\Mi unidad\1. TFM. Evaluación De Calidad De Servicios en Cetursa Sierra Nevada\Dashboard\Bases de Datos\CSV\CategoriaNPS.csv
 ➝ Reemplazar por la ruta local del archivo CategoriaNPS.csv
+
 
 Este último archivo muy simple se utiliza para crear una tabla dimensional.
