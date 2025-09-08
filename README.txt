@@ -47,6 +47,6 @@ En Power Query, localizar las siguientes consultas y actualizar:
 Este último archivo muy simple se utiliza para crear una tabla dimensional.
 
 ## PROBAR DASHBOARD desde versión WEB 
-Acceda desde aquí: https://app.powerbi.com/links/kzQlJld2LN?ctid=87bccd0d-7b25-4e3d-89fb-c2ab93a68ec8&pbi_source=linkShare&bookmarkGuid=caedb029-3043-45e0-b3ce-814c24bc2574
+https://app.powerbi.com/view?r=eyJrIjoiZDBhOWI1ZGEtNDIyMC00ZTM5LWJjMDgtNGRkMGMwN2I5OTViIiwidCI6Ijg3YmNjZDBkLTdiMjUtNGUzZC04OWZiLWMyYWI5M2E2OGVjOCIsImMiOjh9
 
 
