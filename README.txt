@@ -40,7 +40,8 @@ En Power Query, localizar las siguientes consultas y actualizar:
 ----Hasta aquí las 2 encuestas utilizadas en el TFM ---- 
 
 ## PROBAR DASHBOARD desde versión WEB 
-https://app.powerbi.com/view?r=eyJrIjoiZDBhOWI1ZGEtNDIyMC00ZTM5LWJjMDgtNGRkMGMwN2I5OTViIiwidCI6Ijg3YmNjZDBkLTdiMjUtNGUzZC04OWZiLWMyYWI5M2E2OGVjOCIsImMiOjh9
+https://app.powerbi.com/view?r=eyJrIjoiMjYzMjM2ZTktYmQzMC00MjMzLWI3NmEtOWJiYWVkYTUzMDY4IiwidCI6Ijg3YmNjZDBkLTdiMjUtNGUzZC04OWZiLWMyYWI5M2E2OGVjOCIsImMiOjh9
+
 
 
 
