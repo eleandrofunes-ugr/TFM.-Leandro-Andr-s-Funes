@@ -39,14 +39,8 @@ En Power Query, localizar las siguientes consultas y actualizar:
 
 ----Hasta aquí las 2 encuestas utilizadas en el TFM ---- 
 
-3. Consulta: **Categorías NPS**
-=G:\Mi unidad\1. TFM. Evaluación De Calidad De Servicios en Cetursa Sierra Nevada\Dashboard\Bases de Datos\CSV\CategoriaNPS.csv
-➝ Reemplazar por la ruta local del archivo CategoriaNPS.csv
-
-
-Este último archivo muy simple se utiliza para crear una tabla dimensional.
-
 ## PROBAR DASHBOARD desde versión WEB 
 https://app.powerbi.com/view?r=eyJrIjoiZDBhOWI1ZGEtNDIyMC00ZTM5LWJjMDgtNGRkMGMwN2I5OTViIiwidCI6Ijg3YmNjZDBkLTdiMjUtNGUzZC04OWZiLWMyYWI5M2E2OGVjOCIsImMiOjh9
+
 
 
