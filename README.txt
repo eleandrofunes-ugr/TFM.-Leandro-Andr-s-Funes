@@ -1,4 +1,6 @@
-# TFM – DASHBOARD INTERACTIVO PARA LA EVALUACIÓN Y MEJORA DE LA CALIDAD DEL SERVICIO EN CETURSA SIERRA NEVADA  
+# TFM – DASHBOARD INTERACTIVO PARA LA EVALUACIÓN Y MEJORA DE LA CALIDAD DEL SERVICIO EN CETURSA SIERRA NEVADA (PROGRAMA INICIATC INNCUBA CAJASUR-UGR)
+
+El presente dashboard es transferencia de conocimiento financiado por el PROGRAMA INICIATC INNCUBA CAJASUR-UGR en colaboración con Cetursa Sierra Nevada S.A. y forma parte de un Fin de Máster que tiene como propósito diseñar e implementar un modelo integral de evaluación de la calidad del servicio en la estación de esquí Cetursa Sierra Nevada. El estudio se orienta a analizar la percepción de los visitantes en relación con los principales servicios de la estación —remontes, pistas, venta de tickets/forfaits, parking, actividades, centro de atención al usuario y restauración en pistas—, mediante la aplicación de indicadores consolidados tanto en la literatura académica como en la práctica empresarial.
 
 **Autores** 
 Alumno: Leandro Andrés Funes. 
@@ -40,6 +42,7 @@ En Power Query, localizar las siguientes consultas y actualizar:
 
 ## PROBAR DASHBOARD desde versión WEB 
 https://app.powerbi.com/view?r=eyJrIjoiMjYzMjM2ZTktYmQzMC00MjMzLWI3NmEtOWJiYWVkYTUzMDY4IiwidCI6Ijg3YmNjZDBkLTdiMjUtNGUzZC04OWZiLWMyYWI5M2E2OGVjOCIsImMiOjh9
+
 
 
 
