@@ -17,7 +17,6 @@ El objetivo es garantizar la **transparencia** y la **replicabilidad** del traba
 ## 📂 Archivos principales
 - `EncuestaPropia.2025.csv`  
 - `ProyectoAndalucia.2023&2024.EncuestaClientesOnlineV2.csv`  
-- `CategoriaNPS.csv`  
 - `DashboardCetursa.pbix`  
 
 ---
@@ -41,6 +40,7 @@ En Power Query, localizar las siguientes consultas y actualizar:
 
 ## PROBAR DASHBOARD desde versión WEB 
 https://app.powerbi.com/view?r=eyJrIjoiMjYzMjM2ZTktYmQzMC00MjMzLWI3NmEtOWJiYWVkYTUzMDY4IiwidCI6Ijg3YmNjZDBkLTdiMjUtNGUzZC04OWZiLWMyYWI5M2E2OGVjOCIsImMiOjh9
+
 
 
 
