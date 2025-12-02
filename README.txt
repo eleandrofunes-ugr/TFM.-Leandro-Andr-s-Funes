@@ -43,6 +43,11 @@ En Power Query, localizar las siguientes consultas y actualizar:
 ## PROBAR DASHBOARD desde versión WEB 
 https://app.powerbi.com/view?r=eyJrIjoiMjYzMjM2ZTktYmQzMC00MjMzLWI3NmEtOWJiYWVkYTUzMDY4IiwidCI6Ijg3YmNjZDBkLTdiMjUtNGUzZC04OWZiLWMyYWI5M2E2OGVjOCIsImMiOjh9
 
+## Otras publicaciones:
+ZENODO (dashboard): https://zenodo.org/records/17792991
+Digibug (TFM): https://digibug.ugr.es/handle/10481/108321 
+
+
 
 
 
